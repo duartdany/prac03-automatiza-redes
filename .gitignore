@@ -43,6 +43,3 @@ Thumbs.db
 
 #No exe
 *.exe
-
-#No carpeta
-node-modules
